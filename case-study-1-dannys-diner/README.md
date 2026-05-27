@@ -32,6 +32,8 @@ The dataset consists of three tables:
 - **menu**: product catalog with prices
 - **members**: customers enrolled in the loyalty program with join date
 
+![ER Diagram](./erd.png)
+
 ## Tools Used
 
 - **MySQL 8.0** for database and query execution
